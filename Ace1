@@ -1,10 +1,10 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
+
 La 1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 
 Gol Mundial UHD
 acestream://fc138340e045615c18f678acd5d045aec7e630a8
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="Varios" tvg-id="La 1 HD", 0001 La 1 
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
