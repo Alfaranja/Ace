@@ -2,6 +2,9 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 1080 Multiaudio
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+
 LISTA 1
 
 • LaLiga Tv Bar 1080 - acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
