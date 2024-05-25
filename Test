@@ -270,17 +270,11 @@ acestream://1124d4366348b76a755710c8d0d5728e39d0095c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="BT SPORT 1 FHD", BT SPORT 1 FHD
 acestream://6adb56e860967c5b1ba08e1bcb1eb2c4245e5842
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="TDT" tvg-id ="La 1 UHD", La 1
-acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
-
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 4K", M+ LaLigaTV
 http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13975
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 4K ", M+ Liga De Campeones
 http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/151714
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" grupo-título="TDT" tvg-id="DMAX HD", DMAX HD
-http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/178212
 
 #EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa 1080 Multi", M+ Supercopa FHD
 acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
@@ -296,9 +290,6 @@ acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/640px-Movistar_Plus%2B_2022_logo.svg.png" group-title="TDT" tvg-id="Movistar +", Movistar +
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WarnerTV_France_2021.svg/1200px-WarnerTV_France_2021.svg.png" group-title="TDT" tvg-id="Warner TV", Warner TV
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
 
 #EXTINF:-1 tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" group-title="Copa del Rey" tvg-id="Copa FHD", Copa FHD
 acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
