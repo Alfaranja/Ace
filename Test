@@ -149,23 +149,11 @@ acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="DAZN" tvg-id=" DAZN F1 720", DAZN F1 HD
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 1080", Evento del momento 1080
-acestream://5c19b80926aa6dd5ff6ff2ba086bf6caa39c56fa
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", Evento del momento 720
-acestream://172a0843a8f136659ab139af2d247bcfac602d05
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="Ellas #V", M+ Ellas #V
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/meventos.png" group-title="TDT" tvg-id="Eventos de Movistar", Eventos de Movistar
-acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" group-title="TDT" tvg-id="Gol Play - 1080", GOL PLAY FHD
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="beIN Sport ñ", BEIN SPORT Ñ
-acestream://c0f38f2a4b891db823edb45e64f1191655526e5e
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="TDT" tvg-id="Teledeporte - 1080", Teledeporte FHD
 acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
@@ -222,7 +210,7 @@ acestream://c373da9e901d414b7384e671112e64d5a2310c29
 INTERNACIONAL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/nPUqK5KlSGsErfzitI2_e9VchjwJDxb1-OqDL78Jm5J0JeUKO7JGiTl5xIX5l60GG4qiYWo1JKjce82MvLjq6IrtBuReFtmB4GDbev47u92jPj9npMLFkmOuRVaQpiOCZg=w1280" group-title="Varios " tvg-id="Tennis Channel", Tennis Channel
-acestream://801db6777c4501d00c947f4e1e4432910173f5ef
+acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="NBA TV", NBA TV
 acestream://e72d03fb9694164317260f684470be9ab781ed95
