@@ -118,33 +118,6 @@ acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3 720", M+ Liga De Campeones 3 HD
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 4 ", M+ Liga De Campeones 4 SD
-acestream://1b48d5881337c87b89e1edefff6688fe2271d222
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 5 ", M+ Liga De Campeones 5 SD
-acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc6.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 6 ", M+ Liga De Campeones 6 SD
-acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 7 ", M+ Liga De Campeones 7 SD
-acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 8 ", M+ Liga De Campeones 8 SD
-acestream://fdd9e3660059051660dbd7857443c2b807f258d0
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc9.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 9 ", M+ Liga De Campeones 9 SD
-acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc10.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 10 ", M+ Liga De Campeones 10 SD
-acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc11.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 11 ", M+ Liga De Campeones 11 SD
-acestream://57e284a3c13100baeff7a88dc50949585c9f1277
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 12 ", M+ Liga De Campeones 12 SD
-acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg-id="M.Liga 4K" , M+ LaLigaTV 4K
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 
