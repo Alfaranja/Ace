@@ -188,9 +188,6 @@ acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="DEPORTES" tvg-id="M.Deportes 7 1080", M+ Deportes 7 FHD
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/x-2qaH-7TBsyAIvenEGj4Y3KTO_jMWEp1sma9w7UFSaEapUhIb6V8VN-rESN6eMLut3qrlI2YA=s900-ck-c0x00ffffff-no-rj" group-title="TDT" tvg-id=" #0", M+ #0
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/640px-Movistar_Plus%2B_2022_logo.svg.png" group-title="TDT" tvg-id="Movistar +", Movistar +
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
