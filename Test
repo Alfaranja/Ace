@@ -124,6 +124,12 @@ acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3 720", M+ Liga De Campeones 3 HD
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=cfd3da&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Flaligatvbar.png" group-title="LIGA" tvg-id="M.Liga Bar" , M+ LaLigaTV Bar 
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=cfd3da&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Flaligatvbar.png" group-title="LIGA" tvg-id="M.Liga Bar" , M+ LaLigaTV Bar (Opción 2)
+acestream://512aeadf50d91603d15b32f1e408166536ec4ac9
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=7c932e&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmll.png" group-title="LIGA" tvg-id="M.Liga 4K" , M+ LaLigaTV 1 4K
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 
