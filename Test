@@ -58,22 +58,25 @@ acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
 
 1.2. M+
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/640px-Movistar_Plus%2B_2022_logo.svg.png" group-title="TDT" tvg-id="Movistar +", Movistar +
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png" group-title="TDT" tvg-id="Movistar +", Movistar +
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-ck-c0x00ffffff-no-rj" group-title="TDT" tvg-id="#Vamos - 1080", M+ #Vamos FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png" group-title="TDT" tvg-id="Movistar +", Movistar + 
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=c42857&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fvamos.png" group-title="TDT" tvg-id="#Vamos - 1080", M+ #Vamos FHD
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-ck-c0x00ffffff-no-rj" group-title="TDT" tvg-id="#Vamos - 720", M+ #Vamos HD
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=c42857&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fvamos.png" group-title="TDT" tvg-id="#Vamos - 720", M+ #Vamos HD
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="Ellas #V", M+ Ellas #V
-acestream://107acd31600d0fdcdbac2065171c39042f3369c7
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=1f6400&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmev.png" group-title="TDT" tvg-id="Ellas #V", M+ Ellas #V
+acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 1080", M+ Deportes FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 1080", M+ Deportes 1 FHD
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 720", M+ Deportes HD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 720", M+ Deportes 1 HD
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" group-title="DEPORTES" tvg-id="M.Deportes 2 1080", M+ Deportes 2 FHD
@@ -86,7 +89,7 @@ acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" group-title="DEPORTES" tvg-id="M.Deportes 5 1080", M+ Deportes 5 FHD
-acestream://a1146358aa50c99c887108b17f62f9264186a16a
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="DEPORTES" tvg-id="M.Deportes 6 1080", M+ Deportes 6 FHD
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
