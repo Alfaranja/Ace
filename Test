@@ -5,7 +5,7 @@
 1.1. DAZN
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=ffaed4&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fdazn01.png" group-title="DAZN" tvg-id="DAZN 1 1080", DAZN 1 FHD
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=ffaed4&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fdazn01.png" group-title="DAZN" tvg-id="DAZN 1 720", DAZN 1 HD
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
@@ -23,10 +23,10 @@ acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 acestream://4e83f23945ab3e43982045f88ec31daaa4683102
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=128871&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fdaznf1.png" group-title="DAZN" tvg-id="DAZN F1 1080", DAZN F1 FHD
-acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+acestream://8c006afa7086d845ab106ddb76704230e61b315b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=128871&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fdaznf1.png" group-title="DAZN" tvg-id="DAZN F1 1080 (Opción 2)", DAZN F1 FHD (Opción 2)
-acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=128871&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fdaznf1.png" group-title="DAZN" tvg-id="DAZN F1 720", DAZN F1 HD
 acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
