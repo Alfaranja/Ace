@@ -170,7 +170,7 @@ acestream://98784fa0714190de289f42eb5b84e405df7e685a
 1.4. Otros
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=584776&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fgolplay.png" group-title="TDT" tvg-id="Gol Play - 1080", GOL PLAY FHD
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
+acestream://3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=5848d7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fteledeporte.png" group-title="TDT" tvg-id="Teledeporte - 1080", Teledeporte FHD
 acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
@@ -179,10 +179,10 @@ acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
 INTERNACIONAL
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=1fdde8&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Ftennisch.png" group-title="Varios" tvg-id="Tennis Channel", Tennis Channel
-acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="NBA TV", NBA TV
-acestream://e72d03fb9694164317260f684470be9ab781ed95
+acestream://c8aac540621d481965791c4442a7e868bcca10ca
 
 #EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="UK" tvg-id="TNT SPORTS 1", TNT SPORTS 1
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
@@ -235,7 +235,8 @@ acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="US" tvg-id="FOX Sports 2", FOX Sports 2
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/768px-UFC_Fight_Pass_Logo.svg.png?20180410013329" group-title="US" tvg-id="UFC Fight Pass", UFC Fight Pass
+acestream://f74dcf44f57fc71cb4b0719b3342e569eba50c51
 
 
 
