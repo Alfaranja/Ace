@@ -248,11 +248,20 @@ acestream://2dcc9fa21935872130029206395a12cd10533a75
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey" group-title="COPA DEL REY", Copa del Rey
 acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey" group-title="COPA DEL REY", M+ Super Copa (*) --> NEW ERA
+acestream://c0803ffef120a6ec036329ce3fe2e95018cc5958
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey" group-title="COPA DEL REY", M+ Super Copa (*) --> NEW ERA
+acestream://99364e3a5ed2afc8421dfa6332df194761166c03
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGVmRcSH/hits.png" tvg-id="M+ Hits HD" group-title="MOVISTAR", MOVISTAR SERIES FHD
 acestream://28dc545c00d47a620bc7243657de5a85811f1254
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR CLASICOS FHD
 acestream://62b6cdc347e9b5f5aff089055365805e4d20d41e
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", M+ ACCION FHD --> NEW ERA
+acestream://de88ed8716612d9c548df63a168fbdd96843dd20
 
 1.3. Eurosport
 
@@ -270,6 +279,9 @@ acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6fee42&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fes2.png" group-title="Varios" tvg-id="Eurosport 2", Eurosport 2
 acestream://98784fa0714190de289f42eb5b84e405df7e685a
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6fee42&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fes2.png" group-title="Varios" tvg-id="Eurosport 2", Eurosport 2
+0fc05a1e2da78d44b3b5c1ebf6cbcedb8e92c934
 
 1.4. Otros
 
@@ -323,9 +335,6 @@ acestream://9d26a1fd9e0561786cbf3f3c3d0931a7e7bf8d54
 #EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/6a276699-37b7-5c60-aac2-c2e900d81b08.png" group-title="UK" tvg-id="Sky Sports Football", Sky Sports Football
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/5fb67267-a7ac-5313-88d8-1a673d3cbafb.png" group-title="UK" tvg-id="BBC 1", BBC 1
-acestream://243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="US" tvg-id="ESPN 1", ESPN 1
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 
@@ -354,6 +363,9 @@ acestream://8d475e2688519f2c602687b71be54cedbaef9e6b
 
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id="" group-title="MOTOR", Motorvision TV --> NEW LOOP
 acestream://fffaa64d41e500250064181762d510d513137410
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="" group-title="MOTOR", RALLY TV* --> NEW ERA III
+acestream://4cdab0a6554b9e5a5864fa20f8534d5ccfa661fa
 
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
